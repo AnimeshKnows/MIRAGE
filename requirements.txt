@@ -1,0 +1,10 @@
+numpy
+scipy
+opencv-python-headless
+mediapipe
+onnxruntime
+trimesh
+rapidfuzz
+rich
+pyyaml
+scikit-learn
